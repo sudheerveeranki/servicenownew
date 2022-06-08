@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ui_view">
+    <sys_ui_view action="INSERT_OR_UPDATE">
+        <group/>
+        <hidden>false</hidden>
+        <name>custom_portal_settings_x_639816_sudheer_0</name>
+        <roles/>
+        <sys_class_name>sys_ui_view</sys_class_name>
+        <sys_created_by>system</sys_created_by>
+        <sys_created_on>2022-06-08 17:47:44</sys_created_on>
+        <sys_id>6b832d98528011109dc474307115a5d7</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Custom portal settings (x_639816_sudheer_0)</sys_name>
+        <sys_package display_value="Sudheer_work" source="x_639816_sudheer_0">e4ad99d097801110e124f5b3f153affd</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Sudheer_work">e4ad99d097801110e124f5b3f153affd</sys_scope>
+        <sys_update_name>sys_ui_view_6b832d98528011109dc474307115a5d7</sys_update_name>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2022-06-08 17:47:44</sys_updated_on>
+        <title>Custom portal settings (x_639816_sudheer_0)</title>
+        <user/>
+    </sys_ui_view>
+</record_update>

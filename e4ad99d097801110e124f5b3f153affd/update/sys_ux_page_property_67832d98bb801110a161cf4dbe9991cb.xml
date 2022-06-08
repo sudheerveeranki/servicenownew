@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ux_page_property">
+    <sys_ux_page_property action="INSERT_OR_UPDATE">
+        <choices/>
+        <description/>
+        <name>chrome_header</name>
+        <page display_value="Sudheer_work">63832d981780111053a104329bc83dc9</page>
+        <required_translations>[]</required_translations>
+        <route display_value="Landing Page">e7832d980a801110e46ee5034bc335d4</route>
+        <suffix/>
+        <sys_class_name>sys_ux_page_property</sys_class_name>
+        <sys_created_by>system</sys_created_by>
+        <sys_created_on>2022-06-08 17:47:43</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>global</sys_domain_path>
+        <sys_id>67832d98bb801110a161cf4dbe9991cb</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>chrome_header</sys_name>
+        <sys_package display_value="Sudheer_work" source="x_639816_sudheer_0">e4ad99d097801110e124f5b3f153affd</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Sudheer_work">e4ad99d097801110e124f5b3f153affd</sys_scope>
+        <sys_update_name>sys_ux_page_property_67832d98bb801110a161cf4dbe9991cb</sys_update_name>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2022-06-08 17:47:43</sys_updated_on>
+        <type>json</type>
+        <unique_name>x_639816_sudheer_0.63832d981780111053a104329bc83dc9.route.chrome_header.e7832d980a801110e46ee5034bc335d4</unique_name>
+        <value>{&#13;
+    "privatePage":{&#13;
+       "searchEnabled": false&#13;
+    }&#13;
+}</value>
+    </sys_ux_page_property>
+    <sys_translated_text action="delete_multiple" query="documentkey=67832d98bb801110a161cf4dbe9991cb"/>
+</record_update>

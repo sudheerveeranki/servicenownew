@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role">
+    <sys_security_acl_role action="INSERT_OR_UPDATE">
+        <sys_class_name>sys_security_acl_role</sys_class_name>
+        <sys_created_by>system</sys_created_by>
+        <sys_created_on>2022-06-08 17:47:43</sys_created_on>
+        <sys_id>58936d9897801110e124f5b3f153affa</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>67832d988f80111076bcce109768c6da.snc_internal</sys_name>
+        <sys_package display_value="Sudheer_work" source="x_639816_sudheer_0">e4ad99d097801110e124f5b3f153affd</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Sudheer_work">e4ad99d097801110e124f5b3f153affd</sys_scope>
+        <sys_security_acl display_value="67832d988f80111076bcce109768c6da">27832d985c80111024fc9fa03f52efda</sys_security_acl>
+        <sys_update_name>sys_security_acl_role_58936d9897801110e124f5b3f153affa</sys_update_name>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2022-06-08 17:47:43</sys_updated_on>
+        <sys_user_role display_value="snc_internal" name="snc_internal">7fcaa702933002009c8579b4f47ffbde</sys_user_role>
+        <transaction_id>3183699897801110e124f5b3f153afc3</transaction_id>
+    </sys_security_acl_role>
+</record_update>
