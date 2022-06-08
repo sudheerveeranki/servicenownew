@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role">
+    <sys_security_acl_role action="DELETE">
+        <sys_class_name>sys_security_acl_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-06-08 20:27:55</sys_created_on>
+        <sys_id>cf388e9097441110e124f5b3f153afe2</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_639816_sudheer_0_incident.snc_internal</sys_name>
+        <sys_package display_value="Sudheer_work" source="x_639816_sudheer_0">e4ad99d097801110e124f5b3f153affd</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Sudheer_work">e4ad99d097801110e124f5b3f153affd</sys_scope>
+        <sys_security_acl display_value="x_639816_sudheer_0_incident">43388e9097441110e124f5b3f153afe2</sys_security_acl>
+        <sys_update_name>sys_security_acl_role_cf388e9097441110e124f5b3f153afe2</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-06-08 20:27:55</sys_updated_on>
+        <sys_user_role display_value="snc_internal" name="snc_internal">7fcaa702933002009c8579b4f47ffbde</sys_user_role>
+        <transaction_id>cf380a5c97801110e124f5b3f153afda</transaction_id>
+    </sys_security_acl_role>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Sudheer_work">e4ad99d097801110e124f5b3f153affd</application>
+        <file_path/>
+        <instance_id>7beb81f3db22001407072f17d4961907</instance_id>
+        <instance_name>dev98591</instance_name>
+        <name>sys_security_acl_role_cf388e9097441110e124f5b3f153afe2</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role"><sys_security_acl_role action="INSERT_OR_UPDATE"><sys_class_name>sys_security_acl_role</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2022-06-08 20:27:55</sys_created_on><sys_id>cf388e9097441110e124f5b3f153afe2</sys_id><sys_mod_count>0</sys_mod_count><sys_name>x_639816_sudheer_0_incident.snc_internal</sys_name><sys_package display_value="Sudheer_work" source="x_639816_sudheer_0">e4ad99d097801110e124f5b3f153affd</sys_package><sys_policy/><sys_scope display_value="Sudheer_work">e4ad99d097801110e124f5b3f153affd</sys_scope><sys_security_acl display_value="x_639816_sudheer_0_incident">43388e9097441110e124f5b3f153afe2</sys_security_acl><sys_update_name>sys_security_acl_role_cf388e9097441110e124f5b3f153afe2</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2022-06-08 20:27:55</sys_updated_on><sys_user_role display_value="snc_internal" name="snc_internal">7fcaa702933002009c8579b4f47ffbde</sys_user_role><transaction_id>cf380a5c97801110e124f5b3f153afda</transaction_id></sys_security_acl_role></record_update>]]></payload>
+        <payload_hash>1000293897</payload_hash>
+        <record_name>x_639816_sudheer_0_incident.snc_internal</record_name>
+        <reverted_from/>
+        <source>454bfa5097130110e124f5b3f153af46</source>
+        <source_table>sys_upgrade_history</source_table>
+        <state>previous</state>
+        <sys_created_by/>
+        <sys_created_on>2022-05-02 17:23:47</sys_created_on>
+        <sys_id>9b3802d097441110e124f5b3f153afff</sys_id>
+        <sys_mod_count/>
+        <sys_recorded_at>18085ccb4b80000000</sys_recorded_at>
+        <sys_updated_by/>
+        <sys_updated_on/>
+        <type>Access Roles</type>
+        <update_guid>5b3802d034441110e3f8079e0f0a2cff</update_guid>
+        <update_guid_history>5b3802d034441110e3f8079e0f0a2cff:1000293897</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="x_639816_sudheer_0_incident.snc_internal">d33842d097441110e124f5b3f153af01</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-06-08 20:27:57</sys_created_on>
+        <sys_db_object display_value="" name="sys_security_acl_role">sys_security_acl_role</sys_db_object>
+        <sys_id>488fd1114c754989a4590d036a765001</sys_id>
+        <sys_metadata>cf388e9097441110e124f5b3f153afe2</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_639816_sudheer_0_incident.snc_internal</sys_name>
+        <sys_package display_value="Sudheer_work" source="x_639816_sudheer_0">e4ad99d097801110e124f5b3f153affd</sys_package>
+        <sys_parent display_value="x_639816_sudheer_0_incident">43388e9097441110e124f5b3f153afe2</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="Sudheer_work">e4ad99d097801110e124f5b3f153affd</sys_scope>
+        <sys_scope_delete display_value="">0ea1cc4b0adf485980ce8b30f08bc341</sys_scope_delete>
+        <sys_update_name>sys_security_acl_role_cf388e9097441110e124f5b3f153afe2</sys_update_name>
+        <sys_update_version display_value="sys_security_acl_role_cf388e9097441110e124f5b3f153afe2">9b3802d097441110e124f5b3f153afff</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-06-08 20:27:57</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

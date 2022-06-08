@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_composite_data_m2m_datasource">
+    <sys_ux_composite_data_m2m_datasource action="INSERT_OR_UPDATE">
+        <dataset display_value="Custom Portal Landing - My Requests Dataset">23832d986e8011107d2fdcc3d320d4d1</dataset>
+        <datasource display_value="My Requests - Requested Item Datasource">eb832d986b801110e69ebd608ae5cdd0</datasource>
+        <sys_class_name>sys_ux_composite_data_m2m_datasource</sys_class_name>
+        <sys_created_by>system</sys_created_by>
+        <sys_created_on>2022-06-08 17:47:45</sys_created_on>
+        <sys_id>27832d987f801110f6e1287355a6c2cf</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="Sudheer_work" source="x_639816_sudheer_0">e4ad99d097801110e124f5b3f153affd</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Sudheer_work">e4ad99d097801110e124f5b3f153affd</sys_scope>
+        <sys_update_name>sys_ux_composite_data_m2m_datasource_27832d987f801110f6e1287355a6c2cf</sys_update_name>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2022-06-08 17:47:45</sys_updated_on>
+    </sys_ux_composite_data_m2m_datasource>
+</record_update>

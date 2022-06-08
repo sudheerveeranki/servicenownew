@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ux_theme_m2m_asset">
+    <sys_ux_theme_m2m_asset action="INSERT_OR_UPDATE">
+        <asset display_value="now-logo-dark">27832d98da801110e3fb4e42c2d856c9</asset>
+        <properties>{&#13;
+"position": "header_logo"&#13;
+}</properties>
+        <sys_class_name>sys_ux_theme_m2m_asset</sys_class_name>
+        <sys_created_by>system</sys_created_by>
+        <sys_created_on>2022-06-08 17:47:43</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>67832d981c8011107ca9ffd994123ec9</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_overrides/>
+        <sys_package display_value="Sudheer_work" source="x_639816_sudheer_0">e4ad99d097801110e124f5b3f153affd</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Sudheer_work">e4ad99d097801110e124f5b3f153affd</sys_scope>
+        <sys_update_name>sys_ux_theme_m2m_asset_67832d981c8011107ca9ffd994123ec9</sys_update_name>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2022-06-08 17:47:43</sys_updated_on>
+        <theme display_value="Light Theme">eb832d98958011104a46e2ebb38362db</theme>
+    </sys_ux_theme_m2m_asset>
+</record_update>
